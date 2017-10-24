@@ -1,0 +1,37 @@
+html {
+  background-color: Black;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+p.landing {
+  text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+  font-family: Verdana;
+}
